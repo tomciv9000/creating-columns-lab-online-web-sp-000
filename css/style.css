@@ -48,20 +48,22 @@ img:hover {
 
 .column {
   display: inline-block;
-  float: left;
   width: 30%;
 }
 
 .small {
-  
+  width: 100%;
+  height: auto;
 }
 
 .medium {
-  
+  width: 200%;
+  height: auto;
 }
 
 .large {
-  
+  width: 300%;
+  height: auto;
 }
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 

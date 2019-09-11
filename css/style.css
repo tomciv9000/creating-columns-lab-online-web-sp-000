@@ -48,7 +48,8 @@ img:hover {
 
 .column {
   display: inline-block;
-  float: left
+  float: left;
+  width: 30%;
 }
 
 .small {
